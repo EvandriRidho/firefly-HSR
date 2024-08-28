@@ -1,2 +1,2 @@
 # firefly-HSR
-Membuat card firefly hsr
+Card Firefly Honkai Star Rail
